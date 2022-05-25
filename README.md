@@ -1,16 +1,28 @@
-### Hi there 👋
+### Olá, sou o Carlos Augusto Prado e sou um desenvolvedor web.
 
-<!--
-**CarlosAugustoPrado/CarlosAugustoPrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Hoje estou trabalhando como desenvolvedor front-end
+- 🌱 Estudando React Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Falem comigo pelo email: carlosaugusto_prado@yahoo.com.br
+
+<div> 
+  <a href = "https://github.com/CarlosAugustoPrado">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosAugustoPrado&show_icons=true&theme=radical">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAugustoPrado&layout=compact">
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="CarlosA-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="CarlosA-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="CarlosA-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="CarlosA-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CarlosA-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
+</div>
+  
+##
+  
+<div>
+  <a href="https://https://www.linkedin.com/in/carlosaugustoprado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:carlosaugusto_prado@yahoo.com.br">
+  <img height="27" src="https://blog.b2bstack.com.br/wp-content/uploads/2021/11/image1-10.png" target="_blank"></a>
