@@ -1,4 +1,4 @@
-### Olá, sou o Carlos Augusto Prado e sou um desenvolvedor web.
+### Olá, sou o Carlos Augusto Prado e sou um desenvolvedor front-end.
 
 
 - 🔭 Hoje estou trabalhando como desenvolvedor front-end
