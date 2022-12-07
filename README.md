@@ -19,6 +19,6 @@
 ##
   
 <div>
-  <a href="https://https://www.linkedin.com/in/carlosaugustoprado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carlosaugustoprado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:carlosaugusto_prado@yahoo.com.br">
   <img height="27" src="https://blog.b2bstack.com.br/wp-content/uploads/2021/11/image1-10.png" target="_blank"></a>
