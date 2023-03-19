@@ -1,10 +1,10 @@
-### Olá, sou o Carlos Augusto Prado e sou um desenvolvedor front-end.
+### Olá, sou o Carlos Augusto Prado e sou um desenvolvedor front-end | Desenvolvedor Full-stack.
 
 
 - 🔭 Hoje estou trabalhando como desenvolvedor front-end
 - 🌱 Estudando PyScript
 
-- Falem comigo pelo email: carlosaugusto_prado@yahoo.com.br
+- Falem comigo pelo email: devcarlosaugustoprado@gmail.com
 
 
 
