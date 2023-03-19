@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje estou trabalhando como desenvolvedor front-end
-- 🌱 Estudando PyScript
+- 🌱 Estudando ReactNative
 
 - Falem comigo pelo email: devcarlosaugustoprado@gmail.com
 
